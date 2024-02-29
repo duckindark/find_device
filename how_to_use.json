@@ -1,0 +1,26 @@
+[
+  {
+    "title": "1. How to find device",
+    "content": "- Step 1: Turn on Bluetooth of your device. \n- Step 2: Press “START” to scan all bluetooth devices around you.\n- Step 3: After scan, you will have a device list.\n- Step 4: Select the device you want to find.\n- Step 5: Move around slowly and follow the distance indicators on the screen."
+  },
+  {
+    "title": "2. Why can't I see my device?",
+    "content": "Devices may not be reflected in the application if they are turned off, not sending a Bluetooth signal, or are too far away from the system.\nRemember that your device must be on and actively broadcasting Bluetooth.\nTry retracing your steps to another area."
+  },
+  {
+    "title": "3. Why are the numbers unstable?",
+    "content": "The displayed signal strength is unstable due to the type of connection and possible obstacles between you and your device."
+  },
+  {
+    "title": "4. How to find a single headphone?",
+    "content": "To find lost headphone, lock the other one in the case.\n Then refresh the device list.\n When your lost headphone appears in the list, click on it.\n Make sure you are using the phone your headphones are connected to."
+  },
+  {
+    "title": "5. How to find two headphones?",
+    "content": "Two headphones can be detected only if they are not in the case and connected to your Phone."
+  },
+  {
+    "title": "6. How to find the AirPod case?",
+    "content": "You can't because the AirPod case itself doesn't send a signal."
+  }
+]
